@@ -1,0 +1,15 @@
+{
+  "name": "python-tsx-example",
+  "version": "1.0.0",
+  "description": "A practical example of using TypeScript Server Side Rendering from Python with MetaCall.",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicente Eduardo Ferrer Garcia <vic798@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
