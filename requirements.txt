@@ -1,1 +1,1 @@
-metacall==0.3.2
+metacall==0.4.0
